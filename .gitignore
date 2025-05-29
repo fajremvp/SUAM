@@ -1,0 +1,11 @@
+# Evita subir dependências pesadas
+node_modules/
+.next/
+dist/
+build/
+
+# Configs e logs locais
+.env
+.DS_Store
+*.log
+
