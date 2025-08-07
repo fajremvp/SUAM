@@ -135,7 +135,7 @@ Want to help build a more transparent AI future?
 
 ## 📄 License
 
-This project is open source under the [MIT](LICENSE) license.
+This project is open source under the [MIT](https://github.com/fajremvp/SUAM/blob/main/LICENSE) license.
 
 ---
 
